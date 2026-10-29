@@ -1,0 +1,8 @@
+# Flutter platform runners are generated shells around the Dart app.
+# Mark them vendored so GitHub Linguist reports this repository as Dart.
+ios/** linguist-vendored
+android/** linguist-vendored
+linux/** linguist-vendored
+windows/** linguist-vendored
+macos/** linguist-vendored
+web/** linguist-vendored
